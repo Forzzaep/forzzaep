@@ -1,7 +1,9 @@
 ![Header](https://github.com/Forzzaep/forzzaep/blob/main/assets/header.png)
 
-## Я Валентин, начианющий QA Engineer.
-### Закончил курсы от Яндекс.Практикума и имею опыт работы в роли, manual тестировщика 1.5 года.
+# Добрый день, я Валентин, начинающий QA Engineer.
+
+👨‍💻 Работаю в сфере тестирования уже 2 года, закончил курсы от Яндекс.Практикум Manual QA, где набрался как теоритического опыта тестирования, так и добавил в коллекцию некоторые учебные проекты. На последнем месте работы выступал в роли Manual QA. 
+
 
 ## My CV
 [Link to my CV]()
@@ -22,4 +24,6 @@
 ![Qase](https://img.shields.io/badge/-Qase-000000?style=for-the-badge&logo=Qase&logoColor=525eec)
 
 ### My contacts 
-![Header]()
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=2ba3df)](https://t.me/forzzaep)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=f53e3e)](mailto:valentindesignework@gmail.com)
+
