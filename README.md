@@ -1,6 +1,7 @@
 ![Header](https://github.com/Forzzaep/forzzaep/blob/main/assets/header.png)
 
-## Я начинающий QA Engineer. Закончил курсы Яндекс.Практикум и имею опыт работы 1.5 года manual тестировщиком.
+## Я Валентин, начианющий QA Engineer.
+### Закончил курсы от Яндекс.Практикума и имею опыт работы в роли ,anual тестировщика 1.5 года.
 
 Works
 
